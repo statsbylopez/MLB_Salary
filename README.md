@@ -25,4 +25,4 @@ gg_animate(p)
   ```
 
 
-gganimate is super easy to use, but make sure you have `ImageMagick` downloaded to your computer [link](imagemagick.org). That took me a few tries. 
+gganimate is super easy to use, but make sure you have `ImageMagick` downloaded to your computer ([link](imagemagick.org)). That took me a few tries. 
