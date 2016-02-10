@@ -2,6 +2,10 @@
 
 Code for my first [gganimate](https://github.com/dgrtwo/gganimate)!
 
+Last summer, I helped write a [FiveThirtyEight](http://fivethirtyeight.com/features/dont-be-fooled-by-baseballs-small-budget-success-stories/) piece which suggested that the link between team salary and winning percentage remains strong, despite the recent successes of small budget teams. While one of those plots tracked the association between win percentage and salary over the last three decades, I figured it'd be worth using `gganimate` to track by year. 
+
+Here's the code! And check out the resulting gif [here](https://twitter.com/StatsbyLopez/status/697266930797932545/photo/1)
+
 ```{r}
 library(gganimate)
 require(RCurl)
