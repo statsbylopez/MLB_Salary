@@ -24,7 +24,8 @@ p <- ggplot(mlb.anime,
 gg_animate(p)
   ```
 
-And check out the resulting gif [here](https://twitter.com/StatsbyLopez/status/697266930797932545/photo/1)
+And check out the resulting gif [here](https://twitter.com/StatsbyLopez/status/697266930797932545/photo/1) or below
 
+![Alt Text](https://media.giphy.com/media/xT0BKlMPR8fWo3ntW8/giphy.gif)
 
 gganimate is super easy to use, but make sure you have `ImageMagick` downloaded to your computer ([link](imagemagick.org)). That took me a few tries. 
